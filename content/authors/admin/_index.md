@@ -34,6 +34,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a senior researcher at Samsung Research America (SRA) focusing on various areas in machine learning, artificial intelligence and signal processing. I am particularly interested in exploiting inherent low-dimensionality in real-world data to design efficient machine learning algorithms. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a senior researcher at Samsung Research America (SRA) focusing on various areas in machine learning, artificial intelligence and signal processing. I am particularly interested in exploiting inherent low-dimensionality in real-world data to design efficient machine learning algorithms.
