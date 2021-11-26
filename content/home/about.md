@@ -10,3 +10,4 @@ design:
   background:
     image: rakshith.jpg
 ---
+I am a passionate researcher interested in machine learning, artificial intelligence and signal processing.
