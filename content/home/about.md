@@ -5,7 +5,7 @@ author: admin
 widget_id: Profile-photo
 headless: true
 weight: 20
-title: Biography
+title: Rakshith S Srinivasa
 design:
   background:
     image: rakshith.jpg
