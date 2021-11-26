@@ -8,6 +8,6 @@ weight: 20
 title: Rakshith S Srinivasa
 design:
   background:
-    image: rakshith.jpg
+    image: ""
 ---
 I am a passionate researcher interested in machine learning, artificial intelligence and signal processing.
