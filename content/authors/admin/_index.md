@@ -1,21 +1,11 @@
 ---
 title: Rakshith Srinivasa
 role: Senior researcher, machine learning
-avatar_filename: rakshith.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests: []
-social:
-  - display:
-      header: false
-    link: https://twitter.com/rsharma9201
-    icon_pack: far
-    icon: Twitter
-  - display:
-      header: false
-    link: https://www.linkedin.com/in/rsrinivasa/
-    icon_pack: fab
-    icon: Linkedin
+social: []
 organizations:
   - name: Samsung Research America
     url: https://www.sra.samsung.com/
