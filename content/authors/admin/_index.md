@@ -16,7 +16,7 @@ education:
       year: 2020
     - course: M.S in Electrical and Computer Engineering
       institution: Georgia Institute of Technology
-      year: 2021
+      year: 2020
     - course: B. Tech in Electronics and Computer Engineering
       institution: National Institute of Technology, Karnataka (NITK)
       year: 2014
