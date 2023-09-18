@@ -2,8 +2,7 @@
 title: Rakshith Srinivasa
 role: Senior researcher, machine learning
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Test message.
 interests: []
 social: []
 organizations:
